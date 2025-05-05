@@ -2,9 +2,9 @@
 ## Software Engineer
 ###
 
-<p align="left">📱 iOS Engineer with 3 years of experience in Swift, SwiftUI, and UIKit. Skilled in building scalable architectures (MVP, MVVM, VIPER) and optimizing app performance. Passionate about creating seamless user experiences and delivering high-quality applications.
+<p align="left">Full Stack Developer with 3 years of experience in development. Skilled in building scalable architectures (MVP, MVVM, VIPER) and optimizing app performance. Passionate about creating seamless user experiences and delivering high-quality applications.
 
-💡 Continuously learning and refining my skills through online courses and self-study.
+💡 Continuously learning and refining my skills through coding practise and self-study.
 
 🌟 Seeking new opportunities to apply my expertise, drive innovation, and contribute to impactful projects.</p>
 
@@ -23,9 +23,26 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Fastlane-339933?ogo=fastlane&ogoColor=white&style=for-the-badge" height="40"/>
   <img width="12" />
-  <img src="https://img.shields.io/badge/Objective C-DD0031?logo=objectivec&logoColor=white&style=for-the-badge" height="40" alt="objective c logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/iOS-512BD4?ogo=ios&logoColor=white&style=for-the-badge" height="40" alt="dot-net logo"/>
+  <img width="12" />
+
+<img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge" height="40" alt="Python logo" />
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169e1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="PostgreSQL logo" />
+<img width="12" />
+<img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="40" alt="SQLite logo" />
+
+
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-3.12.4-blue?color=blue&labelColor=333333&logo=django&logoColor=white&style=for-the-badge" height="40" alt="Django REST Framework logo" />
+<img width="12" />
+<img src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white&style=for-the-badge" height="40" alt="Celery logo" />
+
+
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white&style=for-the-badge" height="40" alt="Pytest logo" />
+<img width="12" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" height="40" alt="GitHub Actions logo" />
+
+
 </div>
 
 ###
