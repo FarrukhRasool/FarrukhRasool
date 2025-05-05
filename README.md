@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Farrukh Rasool</h1>
 
 ## Software Engineer
-
-<h2 align="left">🧑🏻‍💻 About Me</h2>
-
 ###
 
 <p align="left">📱 iOS Engineer with 3 years of experience in Swift, SwiftUI, and UIKit. Skilled in building scalable architectures (MVP, MVVM, VIPER) and optimizing app performance. Passionate about creating seamless user experiences and delivering high-quality applications.
@@ -38,7 +34,7 @@
 
 ###
 
-## 🤝🏻 &nbsp;Connect with Me
+## Connect with Me
 ###
 
 <div align="center">
@@ -47,9 +43,6 @@
   </a>
   <a href="mailto::farrukhrasool65@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
-  </a>
-  <a href="https://esuedpu99dmr4osl.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="devto logo"  />
   </a>
 </div>
 
