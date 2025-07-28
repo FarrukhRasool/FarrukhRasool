@@ -2,7 +2,7 @@
 ## Software Engineer
 ###
 
-<p align="left">Full Stack Developer with 3 years of experience in development. Skilled in building scalable architectures (MVP, MVVM, VIPER) and optimizing app performance. Passionate about creating seamless user experiences and delivering high-quality applications.
+<p align="left">iOS Developer with 3 years of experience in mobile application development. Skilled in building scalable architectures (MVP, MVVM, VIPER) and optimizing app performance. Passionate about creating seamless user experiences and delivering high-quality applications.
 
 💡 Continuously learning and refining my skills through coding practise and self-study.
 
